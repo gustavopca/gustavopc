@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @uaigust
-- 👀 I’m interested in IT solutions
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on the future of tech
-- 📫 How to reach me https://www.linkedin.com/in/gustavo-pereira-carvalho-110077150/
+- 👋 Olá, meu nome é Gustavo
+- 👀 Tenho interesse em soluções de T.I.
+- 🌱 Aprendendo javascript continuamente
+- 💞️ Procuro colaborar com o futuro da tecnologia
+- 📫 Como me encotrar nas redes https://www.linkedin.com/in/gustavo-pereira-carvalho-110077150/
+- 🏡 Trabalhando de casa
+- 
 
 <!---
 uaigust/uaigust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
