@@ -1,10 +1,10 @@
 - 👋 Olá, meu nome é Gustavo
 - 👀 Tenho interesse em soluções de T.I.
-- 🌱 Aprendendo javascript continuamente
+- 🌱 Aprendendo Segurança da Informação continuamente
 - 💞️ Procuro colaborar com o futuro da tecnologia
 - 📫 Como me encotrar nas redes https://www.linkedin.com/in/gustavo-pereira-carvalho-110077150/
-- 🏡 Trabalhando de casa
-- 
+
+
 
 <!---
 uaigust/uaigust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
